@@ -1,0 +1,15 @@
+For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  var firebaseConfig = {
+    apiKey: "AIzaSyBjnRp9KYASuHuBMsnp4E7YJXmdaoZMsWY",
+    authDomain: "onlineon.firebaseapp.com",
+    databaseURL: "https://onlineon-default-rtdb.europe-west1.firebasedatabase.app",
+    projectId: "onlineon",
+    storageBucket: "onlineon.appspot.com",
+    messagingSenderId: "330257464904",
+    appId: "1:330257464904:web:e88db4c1fd51a83c9f227d",
+    measurementId: "G-ZZTHVD8JP2"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script> 
